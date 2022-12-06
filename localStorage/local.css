@@ -1,0 +1,9 @@
+body{
+    background: rgb(18, 88, 45);
+}
+.line{
+    text-decoration: line-through;
+}
+/* .check-box {
+    margin-right: 20px;
+} */

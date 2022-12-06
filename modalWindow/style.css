@@ -1,0 +1,38 @@
+#modal{
+    transform: scale(0);
+    transition: .2s;
+    width: 500px;
+    padding: 30px;
+    margin: 0 10%;
+    background: rgb(73, 54, 54);
+}
+.title{
+    font-size: 30px;
+    padding: 10px;
+    color: aliceblue;
+    font-family: sans-serif
+}
+.modal-btn {
+   background-color: bisque;
+   width: 100px;
+   height: 30px;
+   border-radius: 10%;
+  
+   margin: 50px;
+}
+
+.window-btn {
+  width: 80px; 
+  height: 30px;
+  background-color: cornsilk;
+}
+.close{
+    width: 80px; 
+    height: 30px;
+    background-color: cornsilk;
+}
+
+.window-input{
+    height: 30px;
+    background-color: cornsilk;
+}

@@ -1,0 +1,16 @@
+*{
+    padding: 3px 0;
+}
+.container {
+}
+.qroup {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.box {
+    width: 150px;
+    height: 150px;
+    border: 1px dashed gray;
+    margin: 2px;
+}

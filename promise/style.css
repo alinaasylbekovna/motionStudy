@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgba(226, 231, 210, 0.171);
+
+}
+.select{
+    position: absolute;
+    margin-left: 116px;
+    margin-top: 30px;
+    padding: 5px;
+    width: 66px;
+    border-radius: 5px;
+    background-color: rgba(95, 129, 14, 0.171);
+}
+
+.option{
+    font-size: larger;
+}
+.content{
+    width: 100rem;
+    border: 1px solid rgb(29, 219, 38);;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px; 
+    font-family: sans-serif; 
+     background-color: rgba(137, 190, 11, 0.171);
+     
+}
+
+.AllContent{
+    display: flex;
+    flex-wrap: wrap; 
+}
+#btn{
+    margin: 30px;
+    width: 66px;
+    padding: 5px;
+    background: rgb(29, 219, 38);
+    border-radius: 5px;
+}
+
